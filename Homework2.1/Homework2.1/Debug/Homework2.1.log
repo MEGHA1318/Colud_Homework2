@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\megha\source\repos\homework2.1\homework2.1\node.h(67): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\megha\source\repos\homework2.1\homework2.1\main.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Homework2.1.vcxproj -> C:\Users\megha\source\repos\Homework2.1\Debug\Homework2.1.exe
